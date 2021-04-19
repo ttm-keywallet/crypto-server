@@ -1,0 +1,4 @@
+[submodule "wallet-core"]
+	path = wallet-core
+	url = https://github.com/ttmbank/wallet-core.git
+	branch = master-x
